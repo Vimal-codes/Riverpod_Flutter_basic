@@ -1,0 +1,7 @@
+//step1 wrapped with provider providerscope
+//step2 create state class
+//step 3 create statenotifierr class
+step 4: create state notifer provider
+// step 5 create obj in view
+//step 6 state update..create a copy with method
+//step 7 create incremnet functon
